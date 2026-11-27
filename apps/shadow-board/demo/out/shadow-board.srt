@@ -1,0 +1,55 @@
+1
+00:00:03,210 --> 00:00:07,966
+Holiday travel empties the IT loaner cupboard, and spreadsheets never
+
+2
+00:00:07,966 --> 00:00:11,550
+show which laptops are still waiting to be reimaged.
+
+3
+00:00:12,508 --> 00:00:19,553
+Shadow Board lays out all thirty-six loaner devices on a workshop pegboard. Solid silhouettes
+
+4
+00:00:19,553 --> 00:00:24,628
+are in; empty outlines hang a linen tag with initials and due date.
+
+5
+00:00:25,440 --> 00:00:29,302
+Switch to the Overdue lens to isolate late returns immediately,
+
+6
+00:00:29,302 --> 00:00:32,980
+or press four to inspect hardware condition across the pool.
+
+7
+00:00:33,781 --> 00:00:37,581
+Drag the date slider forward to see tomorrow and next week. An
+
+8
+00:00:37,581 --> 00:00:42,301
+empty outline fills back in only after its two-day reimaging buffer finishes.
+
+9
+00:00:43,102 --> 00:00:46,064
+Flip View As from Custodian to Borrower to
+
+10
+00:00:46,064 --> 00:00:49,732
+see the self-service path without leaving the board.
+
+11
+00:00:50,541 --> 00:00:55,517
+On the Reserve screen, best-fit allocation picks the laptop with the
+
+12
+00:00:55,517 --> 00:00:59,981
+smallest idle gap so long windows stay open for longer trips.
+
+13
+00:01:00,784 --> 00:01:05,147
+At the Hand-out desk, unchecking a missing USB-C charger on return
+
+14
+00:01:05,147 --> 00:01:10,104
+automatically sends that laptop to repair and removes it from availability.
